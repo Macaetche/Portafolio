@@ -68,7 +68,7 @@ small, .text_small {font-size: 0.8rem;}
 .cabecera-secciones {
     background-size: cover;
     background-position: center;
-    background-color: #A22687;
+    background-image: url(/assets/imgs/Cabeceras_internas.png);
     color: #F5F7F8;
     padding-top: 4rem;
     padding-bottom: 4rem;
@@ -77,15 +77,17 @@ small, .text_small {font-size: 0.8rem;}
     margin-bottom: 8rem;
 }
 .Proyectos {
-    background-color: #F5F7F8;
+    background-color: #ffffff;
 }
 .nav-link{
     color: #000000;
 }
 .footer{
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
     background-color: #A22687;
-    background-size: cover;
-    color: #ffffff;
+    color: #F5F7F8;
     padding-top: 2rem;
     padding-bottom: 1rem;
 }
