@@ -56,6 +56,14 @@ small, .text_small {font-size: 0.8rem;}
     color: #F5F7F8;
     padding-top: 4rem;
 }
+.cabeceraimagen {
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../imgs/cabeceras_internas.png");
+    color: #F5F7F8;
+    padding-top: 4rem;
+}
 .card {
     background-color: #ffffff;
     border-radius: 16px;
@@ -65,7 +73,7 @@ small, .text_small {font-size: 0.8rem;}
     border-radius: 1rem;
     margin-bottom: 0px;
 }
-.cabecera-secciones {
+.cabecera_secciones {
     background-size:cover;
     background-position: center;
     background-image: url("../imgs/cabeceras_internas.png");
