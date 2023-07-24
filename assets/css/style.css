@@ -68,7 +68,7 @@ small, .text_small {font-size: 0.8rem;}
 .cabecera-secciones {
     background-size: cover;
     background-position: center;
-    background-image: url(/assets/imgs/Cabeceras_internas.png);
+    background-image: url("/assets/imgs/Cabeceras_internas.png");
     color: #F5F7F8;
     padding-top: 4rem;
     padding-bottom: 4rem;
