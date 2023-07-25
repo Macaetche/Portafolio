@@ -57,7 +57,7 @@ small, .text_small {font-size: 0.8rem;}
     padding-top: 4rem;
 }
 .cabeceraimagen {
-    background-size:cover;
+    background-size:contain;
     background-repeat: no-repeat;
     background-position: center;
     background-image: url("../imgs/cabeceras_internas.png");
@@ -143,4 +143,15 @@ small, .text_small {font-size: 0.8rem;}
 }
 .detalle-desafio{
     margin-top: 4rem;
+}
+.secciones {
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    color: #F5F7F8;
+    background-image: url("../imgs/Internas.png");
+    padding-top: 4rem;
+    padding-bottom: 4rem;
 }
