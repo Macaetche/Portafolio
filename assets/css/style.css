@@ -7,7 +7,7 @@ body {
   font-family: 'Ubuntu', sans-serif;
   font-weight: 400;
   line-height: 1.75;
-  color: #000000;
+  color: #212529;
 }
 
 p {margin-bottom: 1rem;}
@@ -69,7 +69,7 @@ small, .text_small {font-size: 0.8rem;}
     border-radius: 16px;
     padding: 8px;
     color: #212529;
-    box-shadow: #000000;
+    box-shadow: #212529;
     border-radius: 1rem;
     margin-bottom: 0px;
 }
@@ -154,4 +154,10 @@ small, .text_small {font-size: 0.8rem;}
     background-image: url("../imgs/Internas.png");
     padding-top: 4rem;
     padding-bottom: 4rem;
+}
+.btn-primary {
+    background-color: #A22687;
+    color: #fff;
+    align-items: center;
+    border-color: #A22687;
 }
