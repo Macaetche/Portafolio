@@ -52,9 +52,8 @@ small, .text_small {font-size: 0.8rem;}
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url("../imgs/group-1.png");
     color: #F5F7F8;
-    padding-top: 4rem;
+    padding-top: 0rem;
 }
 .cabeceraimagen {
     background-size:contain;
@@ -67,7 +66,7 @@ small, .text_small {font-size: 0.8rem;}
 .card {
     background-color: #ffffff;
     border-radius: 16px;
-    padding: 8px;
+    padding: 0px;
     color: #212529;
     box-shadow: #212529;
     border-radius: 1rem;
@@ -89,6 +88,7 @@ small, .text_small {font-size: 0.8rem;}
 }
 .nav-link{
     color: #000000;
+    border-color: #A22687;
 }
 .footer{
     background-size:cover;
