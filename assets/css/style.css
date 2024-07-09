@@ -160,4 +160,8 @@ small, .text_small {font-size: 0.8rem;}
     color: #fff;
     align-items: center;
     border-color: #A22687;
+    box-shadow: none;
+}
+.button {
+    box-shadow: none;
 }
